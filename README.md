@@ -56,16 +56,16 @@ Each folder contains `.py` files focused on a specific topic:
 ## 🚀 How to Use
 
 
-## 1. Clone the repository
+### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/Python-Practice.git
 ```
-## 2. Open any topic folder
+### 2. Open any topic folder
 ```bash
 cd python_programming_beginner/list
 ```
 
-## 3. Run the Python file
+### 3. Run the Python file
 ```bash
 demo.py
 ```
