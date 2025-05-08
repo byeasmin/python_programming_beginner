@@ -37,19 +37,24 @@ This repository is **not a complete course**, but a structured **practice space*
 
 Each folder contains `.py` files focused on a specific topic:
 ### ✅ Key Concepts Included:
-- Variables & Data Types  
-- Operators  
-- Taking Input & Printing Output  
-- If-Else Conditions  
-- Loops (`for`, `while`)  
-- Functions (Built-in & User-defined)  
-- Lists, Tuples, Dictionaries, Sets  
-- String Operations  
-- File Handling (Reading/Writing files)  
-- Exception Handling  
-- Creating and Using Modules  
-- Object-Oriented Programming Basics  
-- Mini Practice Problems  
+- Basic
+- test
+- variable
+- data_types  
+- operators  
+- input_output
+- pattern
+- in_built_funtion 
+- if_elif_else
+- break_continue_pass 
+- loop   
+- lists
+- dictionary
+- set
+- tuples
+- array
+- problems
+
 
 ---
 
