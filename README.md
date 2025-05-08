@@ -96,7 +96,7 @@ I hope it helps others as well.
 ## 📜 License
 
 This project is open-source under the **MIT License**.  
-Feel free to **fork**, **modify**, or **share** it to support more learners.
+Feel free to **fork**, **modify**, or **share** it to support more learners 😊
 
 
 
