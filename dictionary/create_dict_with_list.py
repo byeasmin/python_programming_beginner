@@ -7,6 +7,7 @@ values=['python', 'java', 'javaScript']
 dictionary=zip(keys,values)
 print(dictionary)
 
+
 dictionary=dict(zip(keys,values))
 print(dictionary)
 
